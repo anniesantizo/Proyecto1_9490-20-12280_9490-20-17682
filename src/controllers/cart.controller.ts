@@ -5,15 +5,7 @@ import {
     CREATE_ERROR,
     NOT_EXIST,
     DELETE_ERROR,
-    UPDATE_ERROR,
-    USER_DELETED,
-    EXISTING_EMAIL,
-    EXISTING_NIT,
-    EXISTING_DPI,
-    LOGIN_REQUIREMENTS,
-    DATA_REQUIRED,
-    PRODUCT_DELETE
-
+    DATA_REQUIRED
 } from '../utils/commons';
 
 export const handleServerError = (res: Response, error: any, errorMessage: string) => {
