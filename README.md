@@ -2,8 +2,8 @@
 
 Proyecto final comercio electronico back-end (APIs REST)
 
-# Ana Laura Mercedes Santizo Domínguez 
-# Elvis Estuduardo De León Morales 
+# Ana Laura Mercedes Santizo Domínguez  9490-20-12280
+# Elvis Estuardo De León Morales  9490-20-17682
 
 
 #Compilación
